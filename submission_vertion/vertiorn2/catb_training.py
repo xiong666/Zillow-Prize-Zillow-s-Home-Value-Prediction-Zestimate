@@ -3,7 +3,7 @@ Created on Fri Sep 22 22:25:42 2017
 
 The submission version 2
 
-@author: wuguilong
+@author: xiong
 """
 
 import pandas as pd
